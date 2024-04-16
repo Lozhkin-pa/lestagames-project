@@ -35,7 +35,7 @@
     python -m pip install --upgrade pip
     pip install -r requirements.txt
     ```
-4. Перейдите в папку product и выполните миграции:
+4. Перейдите в папку term_frequency_project и выполните миграции:
     ```
     cd term_frequency_project
     python manage.py migrate
