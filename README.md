@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Проект представляет собой веб-приложение: в качестве интерфейса выполнена страница с формой для загрузки текстовых файлов, после загрузки и обработки файлов выполняется анализ текста и отображается таблица с колонками:
+Проект представляет собой веб-приложение: в качестве интерфейса выполнена страница с формой для загрузки текстовых файлов, после загрузки и обработки файлов выполняется анализ текста и отображается таблица с колонками (упорядоченными по уменьшению idf):
 * Слово
 * TF, сколько раз это слово встречается в тексте
 * IDF, обратная частота документа
